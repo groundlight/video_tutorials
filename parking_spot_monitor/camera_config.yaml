@@ -1,0 +1,8 @@
+image_sources:
+# - id:
+#     serial_number: <SERIAL NUMBER> # optional
+  input_type: generic_usb
+  name: My Webcam
+  options: 
+    zoom:
+      digital: 2.0 # zoom is optional
