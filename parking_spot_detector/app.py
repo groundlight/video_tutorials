@@ -1,7 +1,6 @@
 from framegrab import FrameGrabber, MotionDetector
 import groundlight
 import time
-import os
 import logging
 
 logger = logging.getLogger(__name__)
