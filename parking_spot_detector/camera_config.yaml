@@ -1,0 +1,13 @@
+# to obtain camera configuration yaml, simply run `framegrab autodiscover`
+image_sources:
+- id:
+    serial_number: <YOUR CAMERA'S SERIAL NUMBER>
+  input_type: generic_usb
+  name: Window Cam
+  # options: 
+  #   crop:
+  #     relative:
+  #       left: 0.3
+  #       right: 0.5
+  #       top: 0.4
+  #       bottom: 0.7
