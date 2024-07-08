@@ -46,7 +46,7 @@ def main():
             if motion_detected or motion_detected_prev:
                 logger.info(f'motion_detected: {motion_detected} | motion_detected_previous: {motion_detected_prev}')
                 iq = gl.ask_async(detector, frame)
-                logger.info(f'Asking Groundlight: "{detector.query}". iq_id: {iq.id}')
+                logger.info(f'Asking Groundlight: "{detector.query}". Submitted {iq.id} at {now_str}')
             else:
                 logger.info(f"No motion detected at {now_str}.")
 
