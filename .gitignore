@@ -1,5 +1,5 @@
 
-pm_env/
+*env/
 
 .env_secrets
 
