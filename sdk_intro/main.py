@@ -34,7 +34,7 @@ while True:
     #     if key == ord('y'):
     #         label = 'YES'
     #     else:
-    #         label 
+    #         label = 'NO'
     #     image_query = gl.ask_async(detector, frame, human_review="NEVER")
     #     gl.add_label(image_query, label)
     #     print(f'Adding label {label} for image query {image_query.id}')
