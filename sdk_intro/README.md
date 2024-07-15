@@ -33,6 +33,7 @@ Log in to your account at groundlight.ai, go to "Api Tokens" and generate an API
 More info on API tokens here: https://code.groundlight.ai/python-sdk/docs/getting-started/api-tokens. 
 
 Export your API token to your terminal so you can use it in your sample application
+
 Windows:
 ```bash
 $env:GROUNDLIGHT_API_TOKEN="<YOUR API TOKEN GOES HERE>"
