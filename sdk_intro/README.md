@@ -2,7 +2,7 @@
 
 Get started writing your own Groundlight applications with this introductory tutorial. 
 
-Watch the full video: https://www.youtube.com/watch?v=X4n0oiwbb3Y
+Watch the full video: [https://www.youtube.com/watch?v=X4n0oiwbb3Y](https://www.youtube.com/watch?v=X4n0oiwbb3Y)
 
 ## Instructions
 
