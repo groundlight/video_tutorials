@@ -9,6 +9,7 @@ Watch the full video: [https://www.youtube.com/watch?v=X4n0oiwbb3Y](https://www.
 ### 1. Create a folder for your sample project
 ```bash
 mkdir gl_sample
+cd gl_sample
 ```
 ### 2. Create a virtual Python environment for this project.
 ```bash
