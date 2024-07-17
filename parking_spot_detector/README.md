@@ -38,7 +38,7 @@ This tutorial demonstrates how to deploy a Groundlight application on a Raspberr
 1. Enter project folder: `cd parkmon`
 1. Set up a virtual Python environment for your dependencies: `python3 -m venv pm_env`
 1. Activate the virtual environment by running `source pm_env/bin/activate`
-1. Update your system packages: `sudo apt update && sudo apt install`
+1. Update your system packages: `sudo apt update && sudo apt upgrade`
 1. Install the system dependencies for OpenCV.
     ```
     sudo apt install -y build-essential cmake git pkg-config libjpeg-dev libtiff-dev libpng-dev \
