@@ -10,8 +10,9 @@ This tutorial demonstrates how to deploy a Groundlight application on a Raspberr
 ## Required Hardware
 1. [Raspberry Pi Zero V2 with basic accessories](https://www.amazon.com/gp/product/B0C62T5417/ref=ox_sc_act_title_1?smid=AHALS71WJO58T&psc=1) (we recommend an HDMI to micro HDMI adapter and a USB to micro USB adapter) 
 1. Any USB Webcam or Raspberry Pi camera
-2. A tripod or some other mount for positioning your camera
+1.. A tripod or some other mount for positioning your camera
 1. Double-sided adhesive for attaching Raspberry Pi to wall
+1. Power supply for the Raspberry Pi
 
 ## Instructions
 
