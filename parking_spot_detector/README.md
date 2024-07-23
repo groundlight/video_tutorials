@@ -20,7 +20,7 @@ This tutorial demonstrates how to deploy a Groundlight application on a Raspberr
     1. Insert your micro SD card into your computer. Select 'Choose Storage' and select your micro SD card. 
     1. Configure some settings for your OS image:
         1. Click on the Settings button (gear icon). 
-        1. On the Settings windows, choose a hostname that is relevant to your project. We chose 'parkmon' for our parking spot monitoring application.
+        1. On the Settings window, choose a hostname that is relevant to your project. We chose 'parkmon' for our parking spot monitoring application.
         1. Enable SSH so that you can access your Raspberry Pi remotely from your computer. 
         1. Choose 'Allow pulic-key authentication only' to keep your Raspberry Pi secure.
         1. Choose a username and password for your Raspberry Pi in case you ever need to plug it into a monitor and keyboard to debug it.
