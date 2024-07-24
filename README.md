@@ -10,10 +10,10 @@ Get started writing your own Groundlight applications with this introductory tut
   </a>
 </div>
 
-## Monitoring App with Raspberry Pi Zero 2W
-
+## Parking Spot Monitoring App with Raspberry Pi Zero 2W
+Deploy a Groundlight application on a Raspberry Pi Zero 2W.
 <div>
   <a href="https://github.com/groundlight/video_tutorials/tree/main/parking_spot_detector">
-    <img src="https://github.com/user-attachments/assets/xxxxxx" width="350">
+    <img src="https://github.com/user-attachments/assets/d0e08520-1b57-4ea5-9473-1e05ee5a7ee5" width="350">
   </a>
 </div>
