@@ -1,8 +1,8 @@
 # Parking Spot Monitoring App
 
-This tutorial demonstrates how to deploy a Groundlight application on a Raspberry Pi Zero 2W to monitor vehicles entering and leaving a parking spot. The code can easily be adapted to any other monitoring task that you would like to deploy on a Raspberry Pi. 
+Learn to deploy a Groundlight application on a Raspberry Pi Zero 2W to monitor vehicles entering and leaving a parking spot. The code can easily be adapted to any other monitoring task that you would like to deploy on a Raspberry Pi. 
 
-(Link for video tutorial is pending and will be added soon)
+Watch the video: https://youtu.be/YpNKHjuZ7tE?si=MGGrh45V31GhRPiN
 
 ## Table of Contents
 
